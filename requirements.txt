@@ -1,0 +1,5 @@
+Django==2.1.5
+graphene-django==2.2.0
+promise==2.2.1
+django-debug-toolbar==1.11
+flake8==3.6.0
